@@ -5,8 +5,9 @@ def sayhi(name):
                         # section will be added to the function. To call upon a function you would need write the value
                         # that you assigned 'def'
 print('top')
-sayhi('mike')                 #< This is an example of how to call upon a function
-sayhi('mike', '35')
+sayhi('mike')                 # This is an example of how to call upon a function
+sayhi('mike', '35')            # Once you have created the function you are then able to assign it information
+                                # make sure the information is within the indentation. 
 print('bottom')         # function s should be named with all lower case
 
 
